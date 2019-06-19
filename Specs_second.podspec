@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, '8.0'
 
  
-  spec.source       = { :git => 'https://github.com/Moschino8606/Specs_second.git', :tag => '#{spec.version}' }
+  spec.source       = { :git => 'https://github.com/Moschino8606/Specs_second.git', :tag => 'v#{spec.version}' }
 
 
  
